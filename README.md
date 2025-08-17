@@ -19,7 +19,7 @@ It ingests logs, trains machine learning models, detects anomalies in real-time,
 - **Backend**: [FastAPI](https://fastapi.tiangolo.com/)
 - **Database**: SQLite
 - **Machine Learning**: scikit-learn (`IsolationForest`)
-- **LLM**: OpenRouter API (e.g., GPT-4, Claude, Mixtral)
+- **LLM**: OpenRouter API (e.g., GPT-4, Claude, Mixtral) Should use Local LLM for training purpose
 - **Config**: Pydantic + `.env`
 
 ---
