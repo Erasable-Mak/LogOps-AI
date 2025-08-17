@@ -23,7 +23,7 @@ docker compose up --build
 
 
 
-````markdown
+
 # LogOps: AI-Powered Log Anomaly Detection 🚀
 
 LogOps is an **end-to-end log anomaly detection system** built with **FastAPI, SQLite, scikit-learn, and LLMs**.  
@@ -50,6 +50,7 @@ It ingests logs, trains machine learning models, detects anomalies in real-time,
 
 ---
 
+````markdown
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
