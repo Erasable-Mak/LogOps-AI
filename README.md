@@ -87,7 +87,7 @@ poetry shell
 Create a `.env` file in the project root:
 
 ```env
-OPENROUTER_API_KEY=your_openrouter_api_key_here
+OPENROUTER_API_KEY=your_local_llm_api_key_here
 ```
 
 ---
