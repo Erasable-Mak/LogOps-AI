@@ -32,7 +32,7 @@ It ingests logs, trains machine learning models, detects anomalies in real-time,
 git clone https://github.com/yourusername/logops.git
 cd logops
 ````
-````markdown
+
 ### 2. Install Poetry
 
 ```powershell
