@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+duckdb
+pandas
+scikit-learn
+numpy
+httpx
+typer

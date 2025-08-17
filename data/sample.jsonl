@@ -1,0 +1,7 @@
+{"ts": "2025-08-17T08:00:00Z", "service": "payments", "level": "INFO", "msg": "service started"}
+{"ts": "2025-08-17T08:01:00Z", "service": "payments", "level": "ERROR", "msg": "OOMKilled: container exited with code 137"}{"ts": "2025-08-17T08:00:00Z", "service": "payments", "level": "INFO", "msg": "service started"}
+{"ts": "2025-08-17T08:01:00Z", "service": "payments", "level": "ERROR", "msg": "OOMKilled: container exited with code 137"}
+{"ts": "2025-08-17T08:02:00Z", "service": "payments", "level": "INFO", "msg": "container restarting"}
+{"ts": "2025-08-17T08:03:00Z", "service": "payments", "level": "WARN", "msg": "high memory usage detected"}
+{"ts": "2025-08-17T08:04:00Z", "service": "payments", "level": "INFO", "msg": "memory cleanup completed"}
+{"ts": "2025-08-17T08:05:00Z", "service": "payments", "level": "INFO", "msg": "service running normally"}
