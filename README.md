@@ -1,7 +1,7 @@
 # LogOps: AI-Powered Log Anomaly Detection (MVP) 🚀
 
 LogOps is an **end-to-end log anomaly detection system** built with **FastAPI, SQLite, scikit-learn, and LLMs**.  
-It ingests logs, trains machine learning models, detects anomalies in real-time, and provides **natural language explanations** powered by LLMs via [OpenRouter](https://openrouter.ai).
+It ingests logs, trains machine learning models, detects anomalies in real-time, and provides **natural language explanations** powered by LLMs via [OpenRouter](https://openrouter.ai)/Local LLM.
 
 ---
 
